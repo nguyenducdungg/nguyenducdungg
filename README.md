@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Dung
-![I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi](https://res.cloudinary.com/dqwb30l7s/image/upload/v1632198478/anhbia_pkxme4.jpg)
+![I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi](https://github.com/nguyenducdungg/nguyenducdungg/blob/main/dung-github.jpg)
 ---
 #### I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi
 ---
