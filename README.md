@@ -1,4 +1,5 @@
-### Hi there 👋, my name is Dung
+### Hi there 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Nguyen%20Duc%20Dung%20-%20A%20frontend%20developer)  
 ![I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi](https://github.com/nguyenducdungg/nguyenducdungg/blob/main/dung-github.jpg)
 ---
 #### I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi
