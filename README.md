@@ -2,12 +2,12 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=arial&color=%2336BCF7&lines=I'm%20Nguyen%20Duc%20Dung%20-%20A%20frontend%20developer)  
 ![I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi](https://github.com/nguyenducdungg/nguyenducdungg/blob/main/dung-github.jpg)
 ---
-#### I am a student majoring in Mathematics and Information Technology - University of Natural Sciences - Vietnam National University, Hanoi
+#### I graduated with a major in Mathematics - University of Natural Sciences - Vietnam National University, Hanoi
 ---
-- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, MERN Stack etc.
+- 👨‍💻 I’m currently working on web development technologies like JavaScript, React, VueJS, NextJS, MERN Stack etc.
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😍
 - 🎯 Future Goals: Learn more technologies - Learning to become a full-stack developer.
-- ⚡ Fun fact: Open,friendly,flexible,dynamic . I like to play badminton, volleyball, football and especially code
+- ⚡ Fun fact: Open, friendly, flexible, dynamic . I like to play badminton, volleyball, football and especially code
 ---
 - 📫 How to reach me:
    Phone number : 0398.113.876 or social 👇
